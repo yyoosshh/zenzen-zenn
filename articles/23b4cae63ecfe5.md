@@ -2,7 +2,7 @@
 title: "フォワードプロキシとリバースプロキシの違い（フォワードプロキシ編）"
 emoji: "🐷"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [proxy]
+topics: [forward proxy]
 published: true
 ---
 
