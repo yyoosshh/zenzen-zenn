@@ -2,8 +2,8 @@
 title: "【GitHubActions】"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: [GitHubActions, matrix, component]
+published: true
 ---
 
 ## 概要
