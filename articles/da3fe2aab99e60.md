@@ -1,5 +1,5 @@
 ---
-title: "【GitHubActions】"
+title: "【GitHubActions】matrix と workflow_dispathの合わせ技"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [GitHubActions, matrix, component]
